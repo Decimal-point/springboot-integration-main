@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-bpm-activity" />
+        <module name="springboot-template-beetl" />
+        <module name="springboot-tool-excel" />
+        <module name="springboot-bpm-camunda" />
+        <module name="springboot-bpm-uflo" />
+        <module name="springboot-auth-oauth" />
+        <module name="springboot-cache-ehcache" />
+        <module name="springboot-db-middleware-sharding-jdbc" />
+        <module name="springboot-ratelimit-guava" />
+        <module name="springboot-tool-async-method" />
+        <module name="springboot-multi-datasource-mybatis" />
+        <module name="springboot-template-thymeleaf" />
+        <module name="springboot-tool-justauth" />
+        <module name="springboot-cache-redis" />
+        <module name="springboot-orm-hibernate" />
+        <module name="springboot-retry-guava" />
+        <module name="springboot-log" />
+        <module name="springboot-auth-oauth2" />
+        <module name="springboot-template-freemarker" />
+        <module name="springboot-cache-guava" />
+        <module name="springboot-orm-jooq" />
+        <module name="springboot-database-mongodb" />
+        <module name="springboot-webflux" />
+        <module name="springboot-orm-mybatisplus" />
+        <module name="springboot-database-ldap" />
+        <module name="springboot-multi-datasource-hibernate" />
+        <module name="springboot-database-influxdb" />
+        <module name="springboot-searchengine-lucene" />
+        <module name="springboot-apidoc-yapi" />
+        <module name="springboot-websocket-netty" />
+        <module name="springboot-ma-kafka" />
+        <module name="springboot-apidoc-swagger" />
+        <module name="springboot-orm-mybatis" />
+        <module name="springboot-mq-rabbitMq" />
+        <module name="springboot-retry-springretry" />
+        <module name="springboot-searchengine-solr" />
+        <module name="springboot-task-xxl" />
+        <module name="springboot-multi-datasource-mybatisplus" />
+        <module name="springboot-task-powerjob" />
+        <module name="springboot-ratelimit-redis-lua" />
+        <module name="springboot-multi-datasource-jpa" />
+        <module name="springboot-tool-email" />
+        <module name="springboot-sso-oauth" />
+        <module name="springboot-task-quartz" />
+        <module name="springboot-rbac-shiro" />
+        <module name="springboot-database-hbase" />
+        <module name="springboot-apidoc-swagger-beauty" />
+        <module name="springboot-websocket-bio" />
+        <module name="springboot-db-middleware-mycat2" />
+        <module name="springboot-mq-rocketMq" />
+        <module name="springboot-orm-jpa" />
+        <module name="springboot-tool-pdf-word" />
+        <module name="springboot-database-neo4j" />
+        <module name="springboot-codegen" />
+        <module name="springboot-rbac-security" />
+        <module name="springboot-sso-jwt" />
+        <module name="springboot-auth-jwt" />
+        <module name="springboot-tool-file-up-download" />
+        <module name="springboot-searchengine-elasticsearch" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
